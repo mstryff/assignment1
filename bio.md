@@ -1,6 +1,7 @@
 Name: Martin Stryffeler
 Hobbies: music production, hiking, lifting, cooking
 Favorite foods: pizza, chilli, pasta
+Favorite music: Porter Robinson, Anamanaguchi, Rusko
 
 Programming Background
 C++ in highschool
