@@ -1,4 +1,5 @@
 Name: Martin Stryffeler
+Location: Tacoma, Washington
 Hobbies: music production, hiking, lifting, cooking
 Favorite foods: pizza, chilli, pasta
 
